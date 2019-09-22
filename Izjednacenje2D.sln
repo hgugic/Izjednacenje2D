@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izjednacenje2D", "Izjednacenje2D\Izjednacenje2D.csproj", "{C9173E95-B4A6-42F6-B782-F259D7EACCDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9173E95-B4A6-42F6-B782-F259D7EACCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9173E95-B4A6-42F6-B782-F259D7EACCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9173E95-B4A6-42F6-B782-F259D7EACCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9173E95-B4A6-42F6-B782-F259D7EACCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6275BBB-552C-4F5A-9FBA-DE2F0F39D63C}
+	EndGlobalSection
+EndGlobal
